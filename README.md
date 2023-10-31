@@ -1,17 +1,16 @@
 # APN
 
 <p align="center">
-   <img src="logo.png" alt="alt text" width="400" height="200">
+   <img src="toc.jpg" alt="alt text" width="400" height="200">
 </p>
 
 "APN" Critical Aggregation Concentration Model
 
 A concentration model for the systematic dermination of the critical aggregation concentration from experimental data of solution properties.
 
-Further details: http://www.usc.es/fotofqm/en/units/single-molecule-fluorescence/concentration-model-surfactants-near-cmc
+Further details: 
 
-
-Please cite:
+http://www.usc.es/fotofqm/en/units/single-molecule-fluorescence/concentration-model-surfactants-near-cmc
 
 A Model for Monomer and Micellar Concentrations in Surfactant Solutions. Application to Conductivity, NMR, Diffusion and Surface Tension data
 Wajih Al-Soufi, Lucas Piñeiro, Mercedes Novo, Journal of Colloid and Interface Science 2012, 370, 102–110 DOI: 10.1016/j.jcis.2011.12.037
