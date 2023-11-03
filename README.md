@@ -24,4 +24,3 @@ Lucas Piñeiro, Mercedes Novo, and Wajih Al-Soufi, Advances in Colloid and Inter
 A Surfactant Concentration Model for the Systematic Determination of the Critical Micellar Concentration and the Transition Width (Review)
 Wajih Al-Soufi and Mercedes Novo, Molecules 2021, 26, no. 17: 5339. https://doi.org/10.3390/molecules26175339
 
-Wajih Al-Soufi, 2018, MIT Licence
